@@ -23,6 +23,26 @@ Com essas fontes, usei o próprio NotebookLM para estruturar melhor os conceitos
 
 ---
 
+## Visual do Notebook
+
+### Interface principal do NotebookLM
+
+![NotebookLM - Visão Geral](https://i.ibb.co/XftkB4c1/Captura-de-tela-de-2026-02-15-12-45-31.png)
+
+---
+
+### Resumo em vídeo
+
+![Resumo em Vídeo](https://i.ibb.co/0pVw8Y6G/Captura-de-tela-de-2026-02-15-12-55-34.png)
+
+---
+
+### Quiz
+
+![Quiz Gerado](https://i.ibb.co/zTM1tRQ2/Captura-de-tela-de-2026-02-15-12-58-12.png)
+
+---
+
 ## Como o NotebookLM ajudou
 
 O diferencial do projeto foi usar os recursos do Notebook para realmente aprofundar o conteúdo:
