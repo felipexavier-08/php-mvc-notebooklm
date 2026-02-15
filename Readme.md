@@ -6,7 +6,7 @@ Esse repositório contém meu estudo sobre **PHP usando o padrão MVC (Model-Vie
 
 Eu já tinha um certo conhecimento em PHP com MVC, mas quis aprofundar mais minha base em arquitetura, organização de código e boas práticas no backend.
 
-A ideia aqui não foi só estudar, mas usar IA como ferramenta para aprender de forma mais estratégica.
+A ideia aqui não foi só estudar, mas usar IA como ferramenta para aprender de forma mais eficiente.
 
 ---
 
