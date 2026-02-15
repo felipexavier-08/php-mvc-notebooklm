@@ -1,57 +1,56 @@
 # PHP e Arquitetura MVC – NotebookLM
 
-## Sobre o Projeto
+## Sobre o projeto
 
-Este repositório contém meu projeto de estudo sobre **PHP utilizando o padrão arquitetural MVC (Model-View-Controller)**, desenvolvido como desafio prático do bootcamp de Inteligência Artificial da DIO.
+Esse repositório contém meu estudo sobre **PHP usando o padrão MVC (Model-View-Controller)**, desenvolvido como desafio do bootcamp de Inteligência Artificial da DIO.
 
-Já possuo um certo conhecimento em PHP utilizando MVC, mas criei esse Notebook com o objetivo de aprofundar ainda mais meu entendimento sobre arquitetura, organização de código e boas práticas no desenvolvimento backend.
+Eu já tinha um certo conhecimento em PHP com MVC, mas quis aprofundar mais minha base em arquitetura, organização de código e boas práticas no backend.
 
-A proposta foi utilizar IA não apenas para responder perguntas, mas como ferramenta estratégica de aprendizado.
+A ideia aqui não foi só estudar, mas usar IA como ferramenta para aprender de forma mais estratégica.
 
 ---
 
-## O que foi desenvolvido
+## O que eu fiz
 
-Foi criado um **NotebookLM focado em PHP e no padrão MVC**, organizando diversas fontes como:
+Criei um **NotebookLM focado em PHP e no padrão MVC**, organizando várias fontes como:
 
 - Vídeos do YouTube
 - Artigos técnicos
 - Conteúdos sobre CRUD em MVC
 - Materiais sobre PHP orientado a objetos
 
-Com base nessas fontes, utilizei os recursos do NotebookLM para estruturar melhor o conhecimento e aprofundar os conceitos.
+Com essas fontes, usei o próprio NotebookLM para estruturar melhor os conceitos e tirar dúvidas de forma mais direcionada.
 
 ---
 
-## Recursos Utilizados no NotebookLM
+## Como o NotebookLM ajudou
 
-Um dos principais diferenciais do projeto foi o uso das ferramentas do próprio Notebook:
+O diferencial do projeto foi usar os recursos do Notebook para realmente aprofundar o conteúdo:
 
-- Chat baseado exclusivamente nas fontes adicionadas  
-- Geração de resumo em vídeo  
-- Criação de mapas mentais  
-- Cartões de estudo (flashcards)  
-- Testes e questionários  
+- Chat baseado apenas nas fontes que eu adicionei  
+- Resumo automático em vídeo  
+- Mapas mentais para organizar as ideias  
+- Flashcards para revisar conceitos  
+- Testes para validar o aprendizado  
 - Geração de slides e relatórios  
 
-Esses recursos tornaram o estudo mais organizado, direcionado e eficiente.
+Isso deixou o estudo muito mais organizado do que só consumir conteúdo solto na internet.
 
 ---
 
-## Conceitos Estudados
+## O que eu revisei e aprofundei
 
 - Estrutura do padrão MVC  
-- Separação entre Model, View e Controller  
+- Papel do Model, View e Controller  
 - Fluxo de requisição em aplicações PHP  
-- Implementação de CRUD com MVC  
-- Diferença entre código procedural e arquitetura organizada  
+- CRUD usando MVC  
+- Diferença entre código procedural e código estruturado  
 - Organização de pastas e responsabilidades  
-- Relação entre MVC e boas práticas de desenvolvimento  
 
 ---
 
 ## Objetivo
 
-O objetivo deste projeto foi consolidar conhecimentos em arquitetura backend utilizando PHP, além de explorar o uso de IA como apoio no processo de aprendizado técnico.
+O principal objetivo foi fortalecer minha base em arquitetura backend com PHP e entender como usar IA para acelerar o aprendizado técnico.
 
-O NotebookLM demonstrou ser uma ferramenta eficiente para organizar fontes, gerar explicações estruturadas e aprofundar o entendimento sobre padrões arquiteturais.
+Esse projeto mostra como dá pra usar ferramentas de IA não só para responder perguntas, mas para organizar e aprofundar conhecimento de forma mais inteligente.
